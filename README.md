@@ -115,7 +115,7 @@ Why it matters: Making programs robust and user-friendly
 🚀 How to Run
 
 Clone this repository:
-bashgit clone https://github.com/yourusername/python-learning-journey.git
+bashgit clone https:https://github.com/AYUSH09874/Python_baics
 cd python-learning-journey
 
 Run any project:
